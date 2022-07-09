@@ -4,6 +4,8 @@
 }
 .middle-banner{
     display: flex;
+    background-image: url(images/Frame 59.jpg);
+    background-repeat: no-repeat;
 }
 .half-width{
     width: 50%;
@@ -32,3 +34,84 @@ button:hover{
     color: black;
     background-color: tomato;
 }
+.recipie{
+    margin-top: 200px;
+    text-align:center ;
+}
+#recipie-pera{
+    margin: 0 300px;
+}
+.food-item{
+    display: flex;
+    margin-top: 200px;
+}
+.recipie-01{
+    padding-left: 100px;
+    box-shadow: 5px 5px 50px gray;
+    border-radius: 25px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.recipie-02{
+    padding-left: 100px;
+    box-shadow: 5px 5px 50px gray;
+    border-radius: 25px;
+    margin-right: 100px;
+}
+#image-01{
+    padding-top: 100px;
+   padding-left: 50px;
+}
+#image-02{
+    padding-top: 100px;
+    padding-left: 50px;
+ }
+ .recipie-title-heading{
+    font-size: 30px;
+ }
+ 
+ #banner{
+    display: flex;
+    box-shadow: 5px 5px 50px gray;
+    border-radius: 25px;
+    margin: 300px 100px;
+ }
+ #youtube{
+    padding-left: 200px;
+ }
+ #instagram{
+    padding-left: 300px;
+ }
+ #dribble{
+    padding-left: 300px;
+ }
+ .social-media-heading{
+    font-size: 50px;
+    color: tomato;
+    text-align: center;
+ }
+ .social-media-pera{
+    font-size: 25px;
+    margin-top: -45px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 700;
+ }
+ footer{
+    background-color: rgb(48, 6, 6);
+}
+ #footer-heading{
+    text-align: center;
+    color: rgb(221, 121, 28);
+    padding-top: 100px;
+    margin-left: 0;
+    margin-right: 0;
+ }
+ #fresh{
+    color: gray;
+ }
+ #footer-pera{
+    color: white;
+    text-align: center;
+    padding-bottom: 300px;
+    font-size: 15px;
+ }
